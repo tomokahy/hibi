@@ -7,31 +7,3 @@
     margin-right: auto;
     margin-left: auto;
 }
-
-img.image1{
-
-    width: 50px;
-
-}
-
-img.image2{
-
-    height: 40px;
-
-}
-
-img.image2{
-
-    width: 100%;
-
-}
-
-div.left {
-    text-align: left; 
-}
-div.center {
-    text-align: center; 
-}
-div.right {
-    text-align: right; 
-}
