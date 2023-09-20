@@ -8,8 +8,12 @@
     margin-left: auto;
 }
 
-img.image1{
-
-    width: 50px;
-
+div.left {
+    text-align: left; 
+}
+div.center {
+    text-align: center; 
+}
+div.right {
+    text-align: right; 
 }
